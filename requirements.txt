@@ -1,0 +1,11 @@
+aiohttp
+google-play-scraper
+pycryptodome
+PyJWT
+python-cfonts
+requests
+rich
+urllib3
+psutil
+protobuf
+protobuf-decoder
